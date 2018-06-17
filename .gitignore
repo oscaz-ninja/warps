@@ -1,0 +1,14 @@
+### IntelliJ ###
+.idea/
+*.iws
+*.iml
+*.ipr
+test
+
+### Maven ###
+target/
+dependency-reduced-pom.xml
+!.mvn/wrapper/maven-wrapper.jar
+
+### Junk files ###
+.DS_Store

@@ -1,0 +1,7 @@
+name: Warps
+version: 1.0
+author: Oscazz
+
+commands:
+  warp:
+    aliases: [warps, wp, wrp]
